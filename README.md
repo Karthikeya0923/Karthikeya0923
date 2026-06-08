@@ -4,8 +4,9 @@ My name is Karthik, and I'm a class of 2030 Software Engineering student at the 
 
 I have working knowledge in:
 
-C#, C, Python, Java
-XAML, Visual Studio, .NET Framework/Core, Copilot Studio, Git
+- C#, C, Python, Java
+- XAML, Visual Studio, .NET Framework/Core, Copilot Studio, Git
+
 I mostly live inside of Visual Studio 2022 and sometimes VS Code.
 
 - 🔭 I’m currently working on [DinoSpace](https://github.com/Karthikeya0923/dinospace), a free and offline encyclopedia with several features towards dinosaurs and space.
