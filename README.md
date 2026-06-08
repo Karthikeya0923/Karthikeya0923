@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **Karthikeya0923/Karthikeya0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
