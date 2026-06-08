@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Karthik, and I'm a class of 2030 Software Engineering student at the University of Guelph interested in all things AI and project building
+
+- 🔭 I’m currently working on [DinoSpace](https://github.com/Karthikeya0923/dinospace), a free and offline encyclopedia with several features towards dinosaurs and space.
+- 🌱 I plan on building an interactive LLM that not only serves as a chatbox but also scans sky and checks moon phases in my app.
+- 👯 In the future, I'm also interested in diving into game development!
 
 <!--
 **Karthikeya0923/Karthikeya0923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
