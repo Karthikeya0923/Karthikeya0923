@@ -5,7 +5,7 @@ My name is Karthik, and I'm a class of 2030 Software Engineering student at the 
 I have working knowledge in:
 
 - C#, C, Python, Java
-- XAML, Visual Studio, .NET Framework/Core, Copilot Studio, Git
+- XAML, Visual Studio, .NET MAUI, Copilot Studio, Git
 
 I mostly live inside of Visual Studio 2022 and sometimes VS Code.
 
