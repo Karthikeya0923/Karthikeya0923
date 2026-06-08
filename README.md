@@ -9,7 +9,7 @@ I have working knowledge in:
 
 I mostly live inside of Visual Studio 2022 and sometimes VS Code.
 
-- 🔭 I’m currently working on [DinoSpace](https://github.com/Karthikeya0923/dinospace), a free and offline encyclopedia with several features towards dinosaurs and space.
+- 🔭 I’m currently working on [DinoSpace](https://github.com/Karthikeya0923/dinospace), a free and offline encyclopedia app for dinosaurs and space.
 - 🌱 I'm currently learning AI/LLM development
 - 📫 How to reach me: Karthikeya0923@gmail.com
 
