@@ -39,4 +39,4 @@ rise-and-set times, moon phases, and constellation placement — computed from f
 **Building with:** .NET MAUI · XAML · Android · Git · Visual Studio
 
 ## 📫 Reach me
-📧 Karthikeya0923@gmail.com · 💼 [LinkedIn](linkedin.com/in/Karthikeya0923)
+📧 Karthikeya0923@gmail.com · 💼 linkedin.com/in/karthikeya0923
