@@ -5,7 +5,6 @@ a software engineering **co-op**. I like building things that are ambitious for
 their size — a full offline app, the AI engine underneath it, and the math library
 that powers its sky. Most of what I know I learned by shipping these three end to end.
 
-I'm currently working on an AI calorie tracker which scans meals and helps users count their calories everyday - for completely free.
 ---
 
 ## 🚀 What I've built
