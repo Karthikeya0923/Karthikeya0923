@@ -28,10 +28,6 @@ locally. Packaged as an Android library and bridged into .NET MAUI through a nat
 - Streams answers token-by-token with a single-inference queue and automatic engine reload
   between questions, so the chat can never hang or leak state — all with **no network**.
 
-### 🔭 [SkyScanner](https://github.com/Karthikeya0923/SkyScanner) · C#
-The astronomy library behind DinoSpace's sky features: sun/moon/planet positions,
-rise-and-set times, moon phases, and constellation placement — computed from first principles. Built with Claude using NASA's astronomy library.
-
 ---
 
 ## 🛠️ Tech
