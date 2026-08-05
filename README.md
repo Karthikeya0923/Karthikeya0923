@@ -30,7 +30,7 @@ locally. Packaged as an Android library and bridged into .NET MAUI through a nat
 
 ### 🔭 [SkyScanner](https://github.com/Karthikeya0923/SkyScanner) · C#
 The astronomy library behind DinoSpace's sky features: sun/moon/planet positions,
-rise-and-set times, moon phases, and constellation placement — computed from first principles.
+rise-and-set times, moon phases, and constellation placement — computed from first principles. Built with Claude using NASA's astronomy library.
 
 ---
 
