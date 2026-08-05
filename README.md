@@ -2,8 +2,7 @@
 
 Software Engineering student at the **University of Guelph**, currently looking for
 a software engineering **co-op**. I like building things that are ambitious for
-their size — a full offline app, the AI engine underneath it, and the math library
-that powers its sky. Most of what I know I learned by shipping these three end to end.
+their size — a full offline app, and ab AI engine underneath it. Most of what I know I learned by shipping these three end to end.
 
 ---
 
