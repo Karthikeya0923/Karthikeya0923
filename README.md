@@ -2,7 +2,7 @@
 
 Software Engineering student at the **University of Guelph**, looking for a
 **Winter 2027 software engineering co-op**. I like building things that are ambitious
-for their size — a full offline app, and the AI engine underneath it. Most of what I
+for their size, like a full offline app, and the AI engine underneath it. Most of what I
 know I learned by shipping these two end to end.
 
 ---
